@@ -1,0 +1,5 @@
+    A     LLL       BBBBBB       A     NNN   NNN
+   AAA    LLL       BBB  BBB    AAA    NNNN  NNN
+  AA AA   LLL       BBB BBB    AA AA   NNN N NNN
+ AAAAAAA  LLL       BBB  BBB  AAAAAAA  NNN  NNNN
+AAA   AAA LLLLLLLLL BBBBBB   AAA   AAA NNN   NNN
